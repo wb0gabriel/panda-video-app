@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "panda-challenge-downloader",
+    "slug": "panda-challenge-downloader",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "permissions": ["CAMERA_ROLL"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
